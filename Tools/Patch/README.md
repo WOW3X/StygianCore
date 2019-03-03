@@ -1,6 +1,6 @@
-# NEWS February 8, 2019
+### <p align="center">![StygianCore](https://stygianthebest.github.io/assets/img/logo/world_of_stygiancore.png "StygianCore")</p>
 
-**I am releasing a new version of the repack in a few days. These downloads have been disabled. Stay tuned!**
+#### <p align="center"> A World of Warcraft 3.3.5a Solo/LAN repack by StygianTheBest | [GitHub](https://github.com/StygianTheBest) | [Website](http://stygianthebest.github.io)</p>
 
 # How to update the StygianCore Repack
 
@@ -38,3 +38,10 @@ Please [submit a bug report on Github](https://github.com/StygianTheBest/Stygian
 
 ### Have fun!
 _- StygianTheBest_
+
+
+## LICENSE
+
+All code and scripts are released under [GNU AGPL v3](https://stygianthebest.github.io/license/).
+
+World of Warcraft© and Blizzard Entertainment© are all trademarks or registered trademarks of Blizzard Entertainment© in the United States and/or other countries. These [terms](http://us.blizzard.com/en-us/company/about/legal-faq.html) and all related materials, logos, and images are [copyright](http://us.blizzard.com/en-us/company/about/copyrightnotices.html) Blizzard Entertainment©. This site and content is in no way associated with or endorsed by Blizzard Entertainment©.
